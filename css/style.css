@@ -1,0 +1,148 @@
+    /* 
+
+    *{
+        padding:0px;
+        margin:0px;
+    }
+
+    body
+    {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #f4e4ba;
+        height: 100vh;
+    }
+
+    .container
+    {
+        font-size: 1rem;
+        background-color: white;
+        padding: 2rem;
+        min-height: 45vh;
+        width: 40vh;
+    }
+
+    form
+    {
+        margin: 2rem 0 1rem 0;   
+    }
+
+    form input
+    {
+        width: 100%;
+        height: 2rem;
+        border-radius: 1.5rem;
+        padding-left: 0.5rem;
+        margin-top : 0.5em;
+    }
+
+    .selectore
+    {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        margin-top: 2rem;
+        gap: 1.5rem;
+    }
+
+    .country
+    {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+    }
+
+    #exchange_icon
+    {
+        font-size: 1rem;
+    }
+
+    .result
+    {
+        font-size: 1.5rem;
+        margin-top: 2rem;
+    } */
+
+
+
+    *
+    {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    body
+    {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        background-color: #f4e4ba;
+    }
+
+    .container
+    {
+        min-height: 45vh;
+        width: 40vh;
+        background-color: white;
+        padding: 2rem;
+        border-radius: 1.5rem;
+    }
+
+    form
+    {
+        margin-top: 1rem;
+    }
+    
+    form input
+    {
+        width:100%;
+        height: 1.5rem;
+        border-radius: 0.5rem;
+        padding-left: 0.5rem;
+        margin-top: 0.5rem;
+    }
+
+    .selectore
+    {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 1rem;
+    }
+
+    .country
+    {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 0.5rem;
+        margin-top: 0.5rem;
+    }
+
+    img
+    {
+        max-width: 2rem;
+    }
+
+    select
+    {
+        max-height: 2rem;
+    }
+
+    .result-box
+    {
+        margin-top: 2rem;
+    }
+
+    button
+    {
+        width: 100%;
+        height: 2rem;
+        font-size: 1rem;
+        margin-top: 2rem;
+        border-radius: 2rem;
+        background-color: #af4d98;
+        color: #fff;
+    }
